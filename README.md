@@ -31,6 +31,6 @@ This Streamlit app provides a simple dashboard to analyze stock data using popul
 
 ```bash
 git clone https://github.com/shreyassantosh/Python-Backtesting-Engine.git
-cd backtesting-dashboard
+
 pip install -r requirements.txt
 streamlit run backtesting_app.py
